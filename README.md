@@ -5,6 +5,9 @@
 👉SNS
 <a href="https://deukyu.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
 
+Language
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+
 ![DeukYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeukYu&show_icons=true&theme=transparent)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ldy8070)](https://solved.ac/ldy8070/)
