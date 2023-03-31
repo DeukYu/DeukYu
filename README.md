@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeukYu&count_bg=%2379C83D&title_bg=%23A5C4FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 👉SNS
-<a href="https://deukyu.tistory.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"></a>
+<a href="https://github.com/DeukYu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"></a>
 <a href="https://deukyu.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white"></a>
 
 Language
