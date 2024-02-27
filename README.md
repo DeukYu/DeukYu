@@ -11,6 +11,7 @@ Language
 <img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=Csharp&logoColor=white">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=Go&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=Dart&logoColor=white">
 
 ![DeukYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeukYu&show_icons=true&theme=transparent)
 
