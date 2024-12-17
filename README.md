@@ -17,6 +17,9 @@ Language
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ldy8070)](https://solved.ac/ldy8070/)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/DeukYu"/>
+</a>
 <!--
 **DeukYu/DeukYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
